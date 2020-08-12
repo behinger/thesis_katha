@@ -5,9 +5,15 @@ The art was generated in R using ggplot and dplyr.
 
 # Data
 Link to data (some of them are ~40mb so I didnt want to upload it here)
+
 Pupil dilation: https://cloud.wirdreibei.de/s/WEzXryp9fNG4ftR
+
 Blink: https://cloud.wirdreibei.de/s/ByHsYrFroLp7XRs
+
 FreeView:https://cloud.wirdreibei.de/s/p6jnPmEXZGseQwm
+
 MicroSacc:https://cloud.wirdreibei.de/s/K3Hx4Xpxt7pgNRd
+
 smooth pursuit:https://cloud.wirdreibei.de/s/pckYZdGs2QbwX38
+
 accuracy grid:https://cloud.wirdreibei.de/s/dzCgkyYcZpRc9iZ
